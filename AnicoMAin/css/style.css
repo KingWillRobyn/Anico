@@ -1,0 +1,12 @@
+.nl{
+  border-style: inset;
+  border-radius: 10px 10px;
+
+}
+
+.jumbotron{
+  background-color: red;
+}
+body{
+  background-color: orange;
+}
